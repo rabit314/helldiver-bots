@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.settings.json
+*.log
+*.log.*
+*.jsonl
+*.jsonl.*
+*.dmp
+.installed.json
+Gameplay_Logs/
+Mod_Backups/
+HelldiverBots_Backups/
+dist/
+.venv/
+.env
+.env.*

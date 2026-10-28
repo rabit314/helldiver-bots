@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.pyw text eol=lf
+*.lua text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+# The manifest authenticates exact payload bytes; preserve them on every checkout.
+mod/** -text
